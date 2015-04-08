@@ -1,0 +1,1 @@
+include ':app', ':viewPagerlibrary', ':gestureimageview', ':imageloadlibrary', ':xListView'
